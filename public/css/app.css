@@ -5,4 +5,19 @@
     font-size: 12px !important;
     line-height: 1.42857 !important;
     width:fit-content !important
+} 
+
+.top-buffer {
+    margin-top: 5rem !important;
+}
+
+.subtitle {
+    font-size: medium;
+}
+
+.btn-work {
+    padding-top: 0.7rem !important;
+    padding-bottom: 0.7rem !important;
+    padding-left: 3rem !important; 
+    padding-right: 3rem !important;
 }

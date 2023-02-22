@@ -1,8 +1,8 @@
 @extends ('app')
 @include('navbar')
 @section ('content')
-<div class="row mt-5">
-  <div class="col-1 ms-5">
+<div class="row top-buffer p-4">
+  <div class="col-1 ms-5 me-2">
     <div class="row">
       <a class="btn btn-circle btn-outline-dark btn-floating mb-3 p-2">
         <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
@@ -27,9 +27,17 @@
   </div>
 
 
-  
   <div class="col-4 ms-5">
-    <h1 class="fw-bold display-5">How do you design content for every language</h1>
+    <div class="row">
+      <h1 class="fw-bold display-5">How do you design content for every language</h1>
+    </div>
+    <div class="row my-5">
+      <p class="fw-lighter subtitle">We're the content of the research and design at Oxford. We help riders move, restaurants grow and customers eat in over 200 cities around the world. Come find the answers with us</p>
+    </div>
+    <div class="row my-5">
+      <a class="btn btn-work btn-circle btn-dark btn-floating ms-2 mb-3 text-white">Work with us</a>
+    </div>
   </div>
 </div>
+
 @endsection
