@@ -1,5 +1,4 @@
-.btn-circle {
-    padding: 6px 0px !important;
+.btn-round {
     border-radius: 25px !important;
     text-align: center !important;
     font-size: 12px !important;
@@ -7,19 +6,22 @@
     width:fit-content !important
 } 
 
-.top-buffer {
-    margin-top: 5rem !important;
+.btn-circle {
+    width: 20% !important;
+    height: fit-content;
 }
 
+
 .subtitle {
-    font-size: medium;
+    font-size: small;
 }
 
 .btn-work {
-    padding-top: 0.7rem !important;
-    padding-bottom: 0.7rem !important;
-    padding-left: 3rem !important; 
-    padding-right: 3rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+    padding-left: 2.5rem !important; 
+    padding-right: 2.5rem !important;
+    font-size: x-small !important;
 }
 
 .image {
@@ -28,16 +30,41 @@
 
 .typing_img {
     opacity: 0.5;
-    width: 64.6%;
-    height: auto;
+    width: fit-content;
+    height: 25%;
 }
 
 .blue_image {
     background-color: #0f5cfc !important;
     width: fit-content;
+    margin-top: 8rem;
 }
 
-.blue_image2 {
+.background {
     background-color: #0f5cfc !important;
-    width: fit-content;
+    background: url('../img/typing.jpeg');
+    width: 60% !important; 
+    max-height: 100%;
+    opacity: 50%;
+}
+
+img.filtered {
+    filter: sepia(100%) hue-rotate(190deg) saturate(500%);
+    }
+
+.title {
+    font-size: xx-large !important;
+}
+
+.background-grey {
+    background-color: #eff2f1;
+    text-align: center;
+}
+
+.subheading {
+    font-size: medium;
+}
+
+.expertises-button {
+    font-size: 1px !important;
 }

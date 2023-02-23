@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg p-5">
+<nav class="navbar navbar-expand-lg p-4">
   <div class="container-fluid">
     <a class="navbar-brand text-uppercase fw-bold" href="#">Mi Business</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,7 +13,7 @@
           <a class="nav-link text-uppercase" aria-current="page" href="#heading2">Info</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link text-uppercase" aria-current="page" href="#heading3">Expetises</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading3">Expertises</a>
         </li>
         <li class="nav-item ms-3">
           <a class="nav-link text-uppercase" aria-current="page" href="#heading4">Work</a>
