@@ -1,7 +1,7 @@
 @extends ('app')
 @include('navbar')
 @section ('content')
-<div class="row top-buffer p-4">
+<div class="row top-buffer p-4 overflow-auto">
   <div class="col-1 ms-5 me-2">
     <div class="row">
       <a class="btn btn-circle btn-outline-dark btn-floating mb-3 p-2">
@@ -29,7 +29,7 @@
 
   <div class="col-4 ms-5">
     <div class="row">
-      <h1 class="fw-bold display-5">How do you design content for every language</h1>
+      <h1 class="fw-bold display-5" id="heading1">How do you design content for every language</h1>
     </div>
     <div class="row my-5">
       <p class="fw-lighter subtitle">We're the content of the research and design at Oxford. We help riders move, restaurants grow and customers eat in over 200 cities around the world. Come find the answers with us</p>
@@ -38,6 +38,20 @@
       <a class="btn btn-work btn-circle btn-dark btn-floating ms-2 mb-3 text-white">Work with us</a>
     </div>
   </div>
+  <div class="col-6 mt-auto">
+    <div class="blue_image float-end">
+      <img class="image" src="{{url('img/laptop_person.png')}}" alt="description of myimage" >
+    </div>
+  </div>
+
+  <div class="col mt-auto">
+  <div class="blue_image float-start">
+      <img class="typing_img" src="{{url('img/typing.jpg')}}" alt="description of myimage" >
+    </div>
+  </div>
+
+
+
 </div>
 
 @endsection

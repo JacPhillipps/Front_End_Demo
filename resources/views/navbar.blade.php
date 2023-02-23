@@ -7,22 +7,22 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item ms-5">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">Home</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading1">Home</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">Info</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading2">Info</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">Expetises</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading3">Expetises</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">Work</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading4">Work</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">Plans</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading5">Plans</a>
         </li>
         <li class="nav-item ms-3">
-          <a class="nav-link active text-uppercase" aria-current="page" href="#">News</a>
+          <a class="nav-link text-uppercase" aria-current="page" href="#heading6">News</a>
         </li>
       </ul>
       <ul class="navbar-nav mr-auto mb-2 mb-lg-0">

@@ -21,3 +21,23 @@
     padding-left: 3rem !important; 
     padding-right: 3rem !important;
 }
+
+.image {
+    opacity: 0.5;
+}
+
+.typing_img {
+    opacity: 0.5;
+    width: 64.6%;
+    height: auto;
+}
+
+.blue_image {
+    background-color: #0f5cfc !important;
+    width: fit-content;
+}
+
+.blue_image2 {
+    background-color: #0f5cfc !important;
+    width: fit-content;
+}
