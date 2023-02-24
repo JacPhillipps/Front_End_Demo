@@ -1,1 +1,1 @@
-Current time worked on project 1 hour 19 mins
+Current time worked on project 3 hours 34 minutes
