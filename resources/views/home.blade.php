@@ -42,22 +42,18 @@
     </div>
   </div>
 
-  <div class="col-5 overflow ms-auto">
-    <div class="blue_image">
-      <img class="image" src="{{url('img/laptop_person.png')}}" alt="A picture of someone on a laptop" >
-    </div>
+  <div class="col-5 overflow ms-auto mt-5">
+    <img class="image" src="{{url('img/laptop_person.jpg')}}" alt="A picture of someone on a laptop" >
   </div>
 
   <div class="row">
-    <div class="blue_image2">
-      <div class="col-12 background bg-image text-white p-5">
-        <div class="col-4 ms-5 mt-5 mb-2">
-          <h2 id="info" class="h3 mb-2 fw-bold">Delighting customers in over 200 cities in the world.</h2>
+    <div class="col-12 background bg-image text-white p-5 me-2">
+      <div class="col-4 ms-5 mt-5 mb-2">
+        <h2 id="info" class="h3 mb-2 fw-bold">Delighting customers in over 200 cities in the world.</h2>
 
-          <p class="mb-2">We're the content, research and design team at Oxford. We help riders move, restaurants grow and customers eat in over 200 cities around the world. Come find the answer with us.</p>
+        <p class="mb-2">We're the content, research and design team at Oxford. We help riders move, restaurants grow and customers eat in over 200 cities around the world. Come find the answer with us.</p>
 
-          <a class="btn btn-work btn-round btn-dark btn-floating ms-2 my-3 text-white">Find Out More</a>
-        </div>
+        <a class="btn btn-work btn-round btn-dark btn-floating ms-2 my-3 text-white">Find Out More</a>
       </div>
     </div>
     <div class="container overflow">

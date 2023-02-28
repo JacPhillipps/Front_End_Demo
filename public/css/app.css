@@ -25,7 +25,7 @@
 }
 
 .image {
-    opacity: 0.5;
+    width: 100%;
 }
 
 .image_width {
@@ -35,7 +35,7 @@
 
 .absolute {
     position: absolute;
-    top: 110%;
+    top: 100%;
     left: 35%;
     overflow: hidden !important;
 }
@@ -59,27 +59,14 @@ a.blue_hover:hover {color: #0f5cfc !important;}
     font-size: small !important;
 }
 
-.blue_image {
-    background-color: #0f5cfc !important;
-    width: fit-content;
-    margin-top: 8rem;
-}
-
-.blue_image2 {
-    background-color: #0f5cfc !important;
-    width: 60.4% !important; 
-
-}
-
 .brand {
     font-size: medium !important;
 }
 
 .background {
-    background: url('../img/typing.jpeg');
+    background: url('../img/typing.jpg');
     max-height: 100%;
-    width: 47.2rem !important;
-    opacity: 50% !important;
+    width: 60.4% !important;
 }
 
 .font {
